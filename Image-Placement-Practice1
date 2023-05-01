@@ -1,0 +1,22 @@
+<!-- Image Element Practice -->
+
+<!-- Image attributes can be added to webpages with <img src=""/>  -->
+<!-- Image tags are self closing, no need to add another closing tag. -->
+<!-- Specifying sizes for images is done by adding a number, such as -->
+<!-- 300 to the end of the line (<img src="https://picsum.photos/300"/>) -->
+<!-- The Alt (alternative text description) attribute is used to add a description for images -->
+<!-- Alt attributes help provide more accessibility for people with screen readers-->
+
+<!DOCTYPE HTML>
+<h1>
+    I am a cat person,
+</h1>
+<!-- Kitten image URL -->
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="Orange kitten held in hand"/>
+<br />
+<h1>
+    And a dog person!
+</h1>
+<!-- Puppy image URL -->
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" alt="Brown puppy digging in sand"/>
+
