@@ -1,0 +1,23 @@
+<!-- Web page Practice -->
+<!-- Practice with creating web pages through file explorer -->
+<!-- Example of a file system -> <img src="./assets/images/cat.png">  -->
+<!-- When coding a website, seperate your home page from your other pages
+     this can be achieved by creating a folder called 'public'.
+    Ex: C:\User\Name\Documents\Web-Project\public -->
+
+
+
+<h1>Welcome to My Website!</h1>
+<!-- Add an image that links to the about page 
+        - Adding the image tag as the text part of the a href 
+          link will enable the image to be clickable.-->
+<a href="./public/about.html"><img src="https://cdn.pixabay.com/photo/2018/04/25/19/10/water-3350331__480.jpg" /></a>
+<hr />
+<!-- Add the link to a contact me page -->
+<a href="./public/contact.html">Contact Me</a>
+
+
+
+
+
+
