@@ -1,0 +1,40 @@
+<!-- Create the basis for my portfilo website -->
+<!-- When creating websites, it is important to make a list of what should be 
+        added to a website. This helps to stay organized and keep things in 
+        order while building the websites.-->
+<!-- TODO 1: Create the HTML Boilerplate -->
+<!DOCTYPE html5>
+<!-- TODO 2: Add the previous projects HTML into the public folder -->
+<!-- TODO 3: Take screenshots of your project previews and add the images to the images folder -->
+<!-- TODO 4: Add titles/subtitles etc. -->
+<!-- TODO 5: Add a link to the project pages -->
+<!-- TODO 6: Add images to show the project previews
+HINT for TODO 6: You can use the height attribute set to 200 to make the image smaller:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
+<!-- TODO 7: Add the Contact Me and About Me page links -->
+<html lang="en">
+        <head>
+            <meta charset="UTF-8">  
+            <title>HTML Porfolio Project1</title>
+        </head>
+        <body>
+            <h1>My HTML Porfolio</h1>
+            <h2>By SherlockHFan</h2>
+            <hr />
+            <a href="./public/about.html">About Me</a>
+            <h3>Screenshots from each project</h3>
+            <img src="./assets/images/birthday-invite.png" alt="birthday invite"/>
+            <img src="./assets/images/movie-ranking.png" alt="movie ranking website">
+            <hr />
+            <h3>Links to Past Web Projects</h3>
+            <a href="./public/birthday-invite.html">Birthday Invite</a>
+            <br />
+            <a href="./public/movie-ranking.html">Movie Ranking Websites</a>    
+            <hr />
+            <a href="./public/contact.html">Contact Me</a>
+        </body> 
+</html5>
+
+
+
+
