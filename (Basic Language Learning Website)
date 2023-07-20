@@ -1,0 +1,27 @@
+<!--Style.css file for Basic Language Learning Website-->
+
+*{
+    text-align: center;
+}
+.color-title{
+    font-weight:normal;
+}
+img{ 
+    height: 200px;
+    width: 300px;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
